@@ -2,15 +2,15 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "LaunchIn - Transforme Ideias em Lançamentos de Sucesso",
-  description: "Use o poder da IA para validar suas ideias, analisar o mercado e criar planos de lançamento eficientes para seu produto ou serviço.",
-  keywords: "lançamento de produto, inteligência artificial, validação de ideias, análise de mercado, empreendedorismo",
-  authors: [{ name: "LaunchIn" }],
+  title: "SquadBoosters - Agentes de IA para alavancar seus estudos",
+  description: "Em apenas 3 passos simples você terá um plano de estudo prático para aprender com os melhores.",
+  keywords: "Agentes de IA, Planos de estudo, Estudo com IA, Estudo com IA para alavancar seus estudos, Estudo com IA para alavancar seus estudos, Estudo com IA para alavancar seus estudos",
+  authors: [{ name: "SquadBoosters" }],
   openGraph: {
-    title: "LaunchIn - Transforme Ideias em Lançamentos de Sucesso",
-    description: "Use o poder da IA para validar suas ideias, analisar o mercado e criar planos de lançamento eficientes.",
-    url: "https://launchin.com.br",
-    siteName: "LaunchIn",
+    title: "SquadBoosters - Agentes de IA para alavancar seus estudos",
+    description: "Em apenas 3 passos simples você terá um plano de estudo prático para aprender com os melhores.",
+    url: "https://squadboosters.com.br",
+    siteName: "SquadBoosters",
     locale: "pt_BR",
     type: "website",
   },
